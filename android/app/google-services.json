@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752473545685",
+    "firebase_url": "https://sxystartr.firebaseio.com",
+    "project_id": "sxystartr",
+    "storage_bucket": "sxystartr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752473545685:android:dbfddc1ed7fe9a48a33b5c",
+        "android_client_info": {
+          "package_name": "com.sxywlkr.startr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752473545685-o4tuq3d5nrvg9a1jg6g8cigj8otf4rlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFf7cQBRAc7QLdTRjbY2xikZtlQiLB0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752473545685-o4tuq3d5nrvg9a1jg6g8cigj8otf4rlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
